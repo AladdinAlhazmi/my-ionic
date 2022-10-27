@@ -2,10 +2,10 @@
 
 ## ur side
 
-- Create Fork
-- Coauther commit
-- Create PR
+- Create Fork.
+- Coauther commit.
+- Create PR.
 
 ## owner side
 
-- Merge PR
+- Merge PR.
